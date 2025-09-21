@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/AnouarSba/newApp/issues"
   },
-  "homepage": "https://github.com/AnouarSba/newApp#readme"
+  "homepage": "https://github.com/AnouarSba/newApp#readme",
+  "devDependencies": {
+    "webpack-dev-server": "^5.2.2"
+  }
 }
